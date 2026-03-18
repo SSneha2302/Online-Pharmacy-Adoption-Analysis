@@ -35,5 +35,13 @@ This project analyzes the adoption intention of online pharmacies among resident
 - R Scripts
 - Final Report (PDF)
 
-## 🚀 Conclusion
-This project demonstrates how machine learning and sentiment analysis can be used to understand consumer adoption behavior.
+## 🧾 Conclusion
+
+The study indicates that online pharmacies are more likely to be adopted by younger individuals with higher income and education levels. Key behavioral factors such as effort expectancy, social influence, and performance expectancy play a significant role in influencing adoption.
+
+To increase adoption rates, businesses and policymakers should focus on:
+- Creating awareness through social media and digital platforms  
+- Encouraging habit formation among users  
+- Improving price value and service quality  
+
+These insights provide actionable guidance for healthcare providers and policymakers to design effective strategies for promoting online pharmacy usage.
